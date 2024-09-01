@@ -1,5 +1,13 @@
 # Proyecto-SQL-Coderhouse
 
+![SQL Coderhouse Banner](https://github.com/user-attachments/assets/72edcbc7-760a-4276-9707-a908127052e5)
+
+- Alumno: Rodrigo Antonio Sánchez
+- Comisión: 59410
+- Tutora: Melina Solorzano
+- Profesor: Anderson Michel Torres
+
+
 ## Temática: Utilización de SQL para optimizar el análisis de Palabras Clave en SEO
 
 ### Descripción del proyecto:
