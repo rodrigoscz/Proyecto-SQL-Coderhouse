@@ -1,0 +1,1 @@
+Se incluyeron los archivos SQL con scripts solicitados para la segunda entrega junto con las funciones, vistas y procedimientos en su código correspondiente.
